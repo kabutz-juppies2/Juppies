@@ -1,4 +1,4 @@
-# Juppies2
+# Juppies
 
 Projects for the Juppies 2 Course
 
@@ -45,14 +45,14 @@ on that machine. Windows and Linux will be similar.
 
 * [Apache NetBeans](https://netbeans.apache.org/download/) 12.0 or later
   * Team->Git->Clone
-    * Repository URL: https://github.com/kabutz/Juppies2.git
+    * Repository URL: https://github.com/kabutz/Juppies.git
     * Clone into: Your choice
     * Click `Finish`
 
 * [IntelliJ IDEA Community](https://www.jetbrains.com/idea/download/) 2020 or later 
   * File->New->Project from Version Control...
     * Version control: Git
-    * URL: https://github.com/kabutz/Juppies2.git
+    * URL: https://github.com/kabutz/Juppies.git
     * Directory: Your choice
     * Click `Clone`
 
@@ -63,12 +63,12 @@ on that machine. Windows and Linux will be similar.
     * In the "Git Repositories" view, click `Clone a Git repository`.
     If you already have Git repositories, click the second button in the small 
     toolbar, with tooltip `Clone a Git Repository and add the clone to this view` 
-      * URI: https://github.com/kabutz/Juppies2.git
+      * URI: https://github.com/kabutz/Juppies.git
       * Next, Next
       * Directory: Your choice
       * Click `Finish
   * File->Open Projects from File System...
-    * Import source: The directory you chose previously (with `/Juppies2` at 
+    * Import source: The directory you chose previously (with `/Juppies` at 
     the end)
     * Click `Finish`
   * Switch to the Java perspective, either by clicking the button in the top-right 
