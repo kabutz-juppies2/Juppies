@@ -49,7 +49,7 @@ on that machine. Windows and Linux will be similar.
     * Clone into: Your choice
     * Click `Finish`
 
-* [IntelliJ IDEA Community](https://www.jetbrains.com/idea/download/) 2020 or later 
+* [IntelliJ IDEA Community](https://www.jetbrains.com/idea/download/) 2021 or later 
   * File->New->Project from Version Control...
     * Version control: Git
     * URL: https://github.com/kabutz/Juppies.git
